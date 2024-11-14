@@ -1,0 +1,1 @@
+This project is from The Odin Project program. In this project I've created several food recipes across several webpages. With this Project I've learned how to use Git and how to commit changes in the Mac Terminal. The project is created with the Visual Editor Code. The code is purely made with HTML.``
